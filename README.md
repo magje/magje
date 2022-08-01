@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @magje
-- 👀 I’m interested in embedded development, electronics and software development in general. 
+- 👀 I’m a hobbyist interested in embedded development, electronics and software development in general. 
 - 🌱 I’m always eager to learn new technologies and is currently studying and experimenting with machine learning 
 
 
